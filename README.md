@@ -2,7 +2,7 @@
 
 I'm Ben! 
 
-I work as [Director Expert for IoT and Industry 4.0 at www.CGI.de](https://www.linkedin.com/in/benjaminabt) and I am located in 🏠 Stuttgart, Germany.
+I work as [Director Expert for IoT and Industry 4.0 ](https://www.linkedin.com/in/benjaminabt) at www.CGI.de and I am located in 🏠 Stuttgart, Germany.
 
 - 🏢 I currently work on several IoT projects with Azure IoT, .NET, ASP.NET and TypeScript for different customers.
 - 👨‍🏫 I run www.AzureStuttgart.de - the local Azure Usergroup of Stuttgart, Germany
