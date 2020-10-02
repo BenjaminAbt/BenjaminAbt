@@ -13,3 +13,6 @@ I work as [Director Expert for IoT and Industry 4.0 ](https://www.linkedin.com/i
 - 🎤 I like to speak about C#, .NET, ASP.NET, EFCore, Containers, IoT , DevOps, Azure and software architecture on conferences, user groups and workshops.
 - 🐱‍🏍 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) for .NET/ASP.NET (since 2015) and Azure (2019/2020)
 - 📫 You can reach me via [twitter.com/abt_benjamin](https://twitter.com/abt_benjamin)
+
+### Profiles
+[LinkedIn](https://www.linkedin.com/in/benjaminabt/) - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) - [Twitter](https://twitter.com/abt_benjamin) - [Sessionize](https://sessionize.com/abt) - [keybase](https://keybase.io/benjaminabt) - [myCSharp](https://mycsharp.de/wbb2/profile.php?userid=12639) - [StackOverflow](https://stackoverflow.com/users/3796827/benjamin-abt)
