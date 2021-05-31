@@ -17,4 +17,5 @@ I'm Ben!
 
 <a href="https://www.buymeacoffee.com/benjaminabt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" ></a>
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminabt)
+---
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminabt&theme=dark&show_icons=true)
