@@ -16,3 +16,5 @@ I'm Ben!
 [LinkedIn](https://www.linkedin.com/in/benjaminabt/) - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) - [Twitter](https://twitter.com/abt_benjamin) - [Sessionize](https://sessionize.com/abt) - [keybase](https://keybase.io/benjaminabt) - [myCSharp](https://mycsharp.de/users/12639/abt) - [StackOverflow](https://stackoverflow.com/users/3796827/benjamin-abt)
 
 <a href="https://www.buymeacoffee.com/benjaminabt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" ></a>
+
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminabt)
