@@ -16,13 +16,17 @@ I'm Ben!
 
 I offer trainings and workshops on following topics
 
-- Developer trainings on all levels for .NET, C#, ASP.NET, Docker, Azure, DevOps with Azure and/or GitHub
-- Full ASP.NET Core Workshops
-- Azure IoT workshops
+- developer trainings on all levels for .NET, C#, ASP.NET, Docker, Azure, DevOps with Azure and/or GitHub
+- API development trainings for .NET developers (XML, Json, gRPC, GraphQL..)
+- development acceleration with Open Source
+- full ASP.NET Core trainings and workshops
+- ASP.NET for Enterprise workshops
+- Azure IoT trainings and workshops
+- Best practises for micro services with ASP.NET and Docker/Azure
 
 ## My next public talks and conference workshops
 
-- DWX Nürnberg (ASP.NET for Enterprise)
+- DWX Nürnberg (ASP.NET Core in der Box: Best Practises für hoch-moderne Enterprise-Applikationen DE)
 
 ### Profiles
 [LinkedIn](https://www.linkedin.com/in/benjaminabt/) - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) - [Twitter](https://twitter.com/abt_benjamin) - [Sessionize](https://sessionize.com/abt) - [keybase](https://keybase.io/benjaminabt) - [myCSharp](https://mycsharp.de/users/12639/abt) - [StackOverflow](https://stackoverflow.com/users/3796827/benjamin-abt)
