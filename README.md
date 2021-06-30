@@ -2,11 +2,12 @@
 
 I'm Ben! 
 
-- 🏢 I currently work on several IoT projects with Azure IoT, C#, .NET, ASP.NET, Docker, Azure and TypeScript for different customers.
+- 🏢 I work as Technical Fellow and Excecutive Engineet at [EXXETA](https://exxeta.com) 
+- 👩‍💻 I am focused on work on several high-scaling Cloud Platform and IoT projects with C#, .NET, EF Core, ASP.NET, MSSQL, CosmosDB, MongoDB, Docker, Azure and TypeScript
 - 👨‍🏫 I run www.AzureStuttgart.de - the local Azure Usergroup of Stuttgart, Germany
 - 👨‍🏫 I run www.AzureSaturday.de - the largest Azure Community Event of Europe
 - 👨‍🏫 I run www.AzureDays.org - a group of people supporting others to run local Azure Events
-- 👨‍🏫 I run www.myCSharp.de - the largest german-speaking C# forum with over 35.000 members and 680.000 community contributions.
+- 👨‍🏫 I run www.myCSharp.de - the largest german-speaking C# forum with over 30.000 members and 680.000 community contributions.
 - 👨‍🏫 I co-run [GitHub Meetup Stuttgart](https://www.meetup.com/de-DE/GitHub-Meetup-Stuttgart/) - the local GitHub Community in Stuttgart, Germany.
 - 🎤 I like to speak about C#, .NET, ASP.NET, EFCore, Containers, IoT , DevOps, Azure and software architecture on conferences, user groups and workshops.
 - 🐱‍🏍 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) for .NET/ASP.NET (since 2015) and Azure (2019/2020)
@@ -16,7 +17,7 @@ I'm Ben!
 
 I offer trainings and workshops on following topics
 
-- developer trainings on all levels for .NET, C#, ASP.NET, Docker, Azure, DevOps with Azure and/or GitHub
+- developer trainings on all levels for .NET, C#, EF Core, ASP.NET, Docker, Azure, DevOps with Azure and/or GitHub
 - API development trainings for .NET developers (XML, Json, gRPC, GraphQL..)
 - development acceleration with Open Source
 - full ASP.NET Core trainings and workshops
