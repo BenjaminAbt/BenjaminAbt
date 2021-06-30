@@ -2,7 +2,7 @@
 
 I'm Ben! 
 
-🏢 Technical Fellow and Excecutive Engineet at [EXXETA](https://exxeta.com)\
+🏢 Technical Fellow and Excecutive Engineer at [EXXETA](https://exxeta.com) located in South Germany\
 👩‍💻 Cloud Platform and IoT Architect / Developer with C#, .NET, EF Core, ASP.NET, MSSQL, CosmosDB, MongoDB, Docker, Azure and TypeScript
 
 ---
