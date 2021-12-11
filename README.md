@@ -2,8 +2,7 @@
 
 I'm Ben! 
 
-🏢 Technical Fellow and Excecutive Engineer located in South Germany\
-👩‍💻 Cloud Platform and IoT Architect / Developer with C#, .NET, EF Core, ASP.NET, MSSQL, CosmosDB, MongoDB, Docker, Azure and TypeScript
+I work as Architect and Developer on Cloud- and Hybrid-Platforms with Azure, IoT and .NET with focus of scalability and sustainability.
 
 ---
 
