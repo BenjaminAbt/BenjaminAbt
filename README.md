@@ -13,8 +13,9 @@ I work as Architect and Developer on Cloud- and Hybrid-Platforms with Azure, IoT
 👨‍🏫 Host  [AzureDays](https://www.AzureDays.org) - a group of people supporting others to run local Azure Events\
 👨‍🏫 Owner [myCSharp.de](https://www.myCSharp.de) - the largest german-speaking C# forum with over 30.000 members and 680.000 community contributions\
 👨‍🏫 Co-Host [GitHub Meetup Stuttgart](https://www.meetup.com/de-DE/GitHub-Meetup-Stuttgart/) - the local GitHub Community in Stuttgart, Germany\
-🎤 Speak about C#, .NET, ASP.NET, EFCore, Containers, IoT , DevOps, Azure and software architecture on conferences, user groups and workshops
+🎤 Speak about C#, .NET, ASP.NET, EFCore, Containers, IoT , DevOps, Azure and software architecture on conferences, user groups and workshops\
 📈 I publish tech slides on [speakerdeck/abt](https://speakerdeck.com/abt)
+
 📫 You can reach me via [twitter.com/abt_benjamin](https://twitter.com/abt_benjamin) or [LinkedIn](https://www.linkedin.com/in/benjaminabt/)
 
 ---
