@@ -35,7 +35,7 @@ I offer trainings and workshops on following topics
 ---
 
 ## Profiles
-[LinkedIn](https://www.linkedin.com/in/benjaminabt/) - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) - [Twitter](https://twitter.com/abt_benjamin) - [Sessionize](https://sessionize.com/abt) - [keybase](https://keybase.io/benjaminabt) - [myCSharp](https://mycsharp.de/users/12639/abt) - [.NET Foundation](https://dotnetfoundation.org/community/speakers/benjamin-abt) - [StackOverflow](https://stackoverflow.com/users/3796827/benjamin-abt)
+[LinkedIn](https://www.linkedin.com/in/benjaminabt/) - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) - [Twitter](https://twitter.com/abt_benjamin) - [Sessionize](https://sessionize.com/abt) - [keybase](https://keybase.io/benjaminabt) - [myCSharp](https://mycsharp.de/users/12639/abt) - [.NET Foundation](https://dotnetfoundation.org/community/speakers/benjamin-abt) - [StackOverflow](https://stackoverflow.com/users/3796827/benjamin-abt) - <a rel="me" href="https://mastodon.social/@abt">Mastodon</a>
 
 <a href="https://www.buymeacoffee.com/benjaminabt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" ></a>
 
