@@ -2,7 +2,7 @@
 
 I'm Ben! 
 
-I work as Architect and Developer on Cloud- and Hybrid-Platforms with Azure, IoT and .NET with focus of scalability and sustainability.
+I work as Principal Software Engineer @ Medialesson on Cloud- and Hybrid-Platforms with Azure, IoT and .NET with focus of scalability and sustainability.
 
 ---
 
