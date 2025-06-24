@@ -1,43 +1,93 @@
-# Hey!
+# 👋 Hey, I'm Ben!
 
-I'm Ben! 
-
-I work as Principal Software Engineer on Cloud- and Hybrid-Platforms with Azure and .NET with focus of scalability and sustainability.
+**Principal Software Engineer** – specializing in scalable, sustainable Cloud & Hybrid Platforms with **Azure** and **.NET**.
 
 ---
 
-🎓 Love to learn new stuff, currently Rust and WebAssembly\
-🐱‍🏍 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) for .NET/ASP.NET (since 2015) and Azure (2019/2020)\
-👨‍🏫 Host [AzureStuttgart](https://www.AzureStuttgart.de) - the local Azure Usergroup of Stuttgart, Germany\
-👨‍🏫 Host  [AzureSaturday](https://www.AzureSaturday.de) - the largest Azure Community Event of Europe\
-👨‍🏫 Host  [AzureDays](https://www.AzureDays.org) - a group of people supporting others to run local Azure Events\
-👨‍🏫 Owner [myCSharp.de](https://www.myCSharp.de) - the largest german-speaking C# forum with over 30.000 members and 680.000 community contributions\
-👨‍🏫 Co-Host [GitHub Meetup Stuttgart](https://www.meetup.com/de-DE/GitHub-Meetup-Stuttgart/) - the local GitHub Community in Stuttgart, Germany\
-🎤 Speak about C#, .NET, ASP.NET, EFCore, Containers, IoT , DevOps, Azure and software architecture on conferences, user groups and workshops\
-📈 I publish tech slides on [speakerdeck/abt](https://speakerdeck.com/abt)
+## 🚀 What I Do
 
-📫 You can reach me via [twitter.com/abt_benjamin](https://twitter.com/abt_benjamin) or [LinkedIn](https://www.linkedin.com/in/benjaminabt/)
+- Architecting & engineering cloud-native apps on **Azure** with **.NET**, **ASP.NET Core** and **Aspire**
+- Running community events and contributing to open-source
+- Teaching developers and teams about modern software architecture and development
 
 ---
 
-## Tranings
+## 🧠 Currently Exploring
 
-I offer trainings and workshops on following topics
-
-- developer trainings on all levels for .NET, C#, EF Core, ASP.NET, Docker, Azure, DevOps with Azure and/or GitHub
-- API development trainings for .NET developers (XML, Json, gRPC, GraphQL..)
-- development acceleration with Open Source
-- full ASP.NET Core trainings and workshops
-- ASP.NET for Enterprise workshops
-- Azure IoT trainings and workshops
-- Best practises for micro services with ASP.NET and Docker/Azure
+- 🦀 **Cloudflare Developer Platform**  
+- 🌐 **WebAssembly**
+- 🥅 **Aspire**
 
 ---
 
-## Profiles
-[LinkedIn](https://www.linkedin.com/in/benjaminabt/) - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5001507) - [Twitter](https://twitter.com/abt_benjamin) - [Sessionize](https://sessionize.com/abt) - [keybase](https://keybase.io/benjaminabt) - [myCSharp](https://mycsharp.de/users/12639/abt) - [.NET Foundation](https://dotnetfoundation.org/community/speakers/benjamin-abt) - [StackOverflow](https://stackoverflow.com/users/3796827/benjamin-abt) - <a rel="me" href="https://mastodon.social/@abt">Mastodon</a>
+## 🏆 Recognitions
 
-<a href="https://www.buymeacoffee.com/benjaminabt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" ></a>
+- 🎖️ [**Microsoft MVP**](https://mvp.microsoft.com/en-us/PublicProfile/5001507)
+  - .NET / ASP.NET (2015–today)  
+  - Azure (2019–2020)  
 
 ---
+
+## 👨‍🏫 Community Engagement
+
+- 🗾 Host of [**AzureStuttgart**](https://www.AzureStuttgart.de) – Stuttgart's local Azure User Group  
+- 🗾 Organizer of [**AzureSaturday**](https://www.AzureSaturday.de) – Europe's largest community-driven Azure event  
+- 🗾 Founder of [**AzureDays**](https://www.AzureDays.org) – enabling local Azure events globally  
+- 💬 Owner of [**myCSharp.de**](https://www.myCSharp.de) – Germany's largest and most active C# forum (30k+ members, 680k+ posts)  
+- 🐙 Co-Host of [**GitHub Meetup Stuttgart**](https://www.meetup.com/de-DE/GitHub-Meetup-Stuttgart/)
+
+---
+
+## 🎤 I Speak About
+
+- C#, .NET, ASP.NET Core, EF Core  
+- Azure (Cloud, DevOps, IoT)  
+- Docker & Containers  
+- Microservices & Architecture  
+- APIs (REST, gRPC, GraphQL, etc.)
+
+📽 Slides on [**Speakerdeck**](https://speakerdeck.com/abt)
+
+---
+
+## 🧑‍🏫 Workshops & Trainings
+
+I offer tailored trainings for developers and teams:
+
+- 🔹 Full-stack **ASP.NET Core** development
+- 🔹 API design with REST, gRPC, GraphQL  
+- 🔹 Docker & containerization for .NET developers  
+- 🔹 Modern DevOps with **Azure** and **GitHub**  
+- 🔹 Building sustainable microservice architectures  
+
+[Reach out](https://www.linkedin.com/in/benjaminabt/) if you're interested in a custom training for your team.
+
+---
+
+## 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin%20Abt-blue?logo=linkedin)](https://www.linkedin.com/in/benjaminabt/)
+[![MVP](https://img.shields.io/badge/Microsoft-MVP-0078D4?logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5001507)
+[![Twitter](https://img.shields.io/badge/Twitter-@abt_benjamin-1DA1F2?logo=twitter)](https://twitter.com/abt_benjamin)
+[![Sessionize](https://img.shields.io/badge/Sessionize-abt-9D4EDD?logo=sessionize)](https://sessionize.com/abt)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@abt-6364FF?logo=mastodon)](https://mastodon.social/@abt)
+
+Other profiles: [myCSharp](https://mycsharp.de/users/12639/abt) · [Keybase](https://keybase.io/benjaminabt) · [.NET Foundation](https://dotnetfoundation.org/community/speakers/benjamin-abt) · [StackOverflow](https://stackoverflow.com/users/3796827/benjamin-abt)
+
+---
+
+## ☕ Support My Work
+
+<a href="https://www.buymeacoffee.com/benjaminabt" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40">
+</a>
+
+---
+
+## 📊 GitHub Stats
+
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminabt&theme=dark&show_icons=true)
+
+---
+
+### ✨ Let’s connect and build awesome things – sustainably and at scale.
