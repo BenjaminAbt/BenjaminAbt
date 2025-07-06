@@ -1,6 +1,24 @@
-# 👋 Hey, I'm Ben!
+**👋 Hey, I'm Ben** and I use code to solve your problems.
 
-**Principal Software Engineer** – specializing in scalable, sustainable Cloud & Hybrid Platforms with **Azure** and **.NET**.
+I'm a Principal Software Engineer at [Medialesson GmbH](https://link.benjamin-abt.com/medialesson), specialized in cloud and hybrid platforms on Azure and .NET, with a strong focus on performance, scalability and sustainability.
+
+## Hire Me 👩‍💻
+
+- **Scalable Architectures**  
+  Designing efficient, modular monoliths and highly scalable microservices and container-based systems.
+- **Azure Cloud Expertise**  
+  Azure App Services, Azure Container Apps, Azure Frontdoor, Functions, MSSQL, Cosmos DB, Service Bus, Event Sourcing, Event Grid, Azure DevOps, GitHub Actions, Cloudflare Workers
+- **.NET Ecosystem**  
+  C#, .NET, ASP.NET Core, Entity Framework Core, gRPC, SignalR..
+- **Infrastructure as Code & CI/CD**  
+  Terraform, Bicep, ARM templates, GitHub Actions, Azure Pipelines
+- **Performance & Monitoring**  
+  Application Insights, Azure Monitor, Log Analytics, automated load testing
+
+###  Contact
+- **Info** - [About me](https://benjamin-abt.com/about)
+- **Email**: [Contact me](https://benjamin-abt.com/contact)
+- **LinkedIn**: [/in/benjaminabt](https://link.benjamin-abt.com/LinkedIn)
 
 ---
 
